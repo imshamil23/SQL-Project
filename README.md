@@ -19,7 +19,8 @@ The schema covers multiple components essential to a healthcare system, includin
 
 The Entity-Relationship (ER) diagram represents the structure of the database and the relationships between different entities.
 
-![ER Diagram](./path-to-your-diagram-file/Healthcare-Schema.png)
+![ER Diagram](https://github.com/imshamil23/SQL-Project/blob/main/Healthcare-Schema.png)
+
 
 ### Key Tables and Relationships
 
