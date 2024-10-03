@@ -1,4 +1,7 @@
-# Healthcare Database Schema
+# SQL PROJECT
+
+   
+   # Healthcare Database Schema
 
 This project contains a comprehensive **Healthcare Database Schema** that models various entities involved in a healthcare system. The schema is structured to manage data related to patients, prescriptions, treatments, pharmacies, claims, medicines, and insurance plans.
 
@@ -84,6 +87,15 @@ You can utilize this schema for healthcare-related database management tasks suc
 
 ## Future Enhancements
 
+
 - Expanding the schema to include electronic health records (EHR).
+- ## Getting Started
+
+To run this project locally:
+
 - Incorporating patient billing details.
 - Adding support for real-time appointment scheduling and telemedicine.
+- 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/imshamil23/SQL-Project
